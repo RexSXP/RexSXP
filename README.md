@@ -19,10 +19,6 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning everything ._.</p>
-
-###
-
 <h3 align="left">Contacts</h3>
 
 ###
